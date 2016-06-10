@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[
+@media screen and (min-width: 1300px) {
+}
+
+@media screen and (min-width: 992px) and (max-width: 1300px) {
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+}
+
+@media screen and (max-width: 768px) {
+}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>query-responsive#</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

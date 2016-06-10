@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+
+<label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect" for="checkbox-2">
+  <input type="checkbox" id="checkbox-2" class="mdl-checkbox__input">
+  <span class="mdl-checkbox__label">Checkbox</span>
+</label>
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>mdl-checkbox#</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+<!-- Icon button -->
+<button class="mdl-button mdl-js-button mdl-button--icon">
+  <i class="material-icons">mood</i>
+</button>
+</button>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>mdl-icon-button#</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

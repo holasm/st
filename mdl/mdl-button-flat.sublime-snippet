@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<!-- Flat button -->
+<button class="mdl-button mdl-js-button">
+  Button
+</button>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>mdl-button-flat#</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

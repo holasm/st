@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<a href="#" class="mdl-badge mdl-badge--no-background" data-badge="123">
+This badge has no background color.</a>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>mdl-badge-no-back#</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

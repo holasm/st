@@ -1,0 +1,65 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete_commit_on_tab": false,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "/",
+			"selector": "string.quoted.double.html,string.quoted.single.html, source.css"
+		}
+	],
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 0,
+	"caret_style": "smooth",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"fade_fold_buttons": false,
+	"font_options":
+	[
+		"gray_antialias",
+		"subpixel_antialias"
+	],
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Vintageous"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_separator": true,
+	"overlay_scroll_bars": "enabled",
+	"soda_classic_tabs": false,
+	"soda_folder_icons": false,
+	"spell_check": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"vintageous_start_in_command_mode": false,
+	"wide_caret": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"theme": "Cobalt2.sublime-theme",   
+	"highlight_line": true,
+	"indent_guide_options": [ "draw_normal", "draw_active" ],
+	"highlight_modified_tabs": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"wide_caret": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"bold_folder_labels": true,
+}
